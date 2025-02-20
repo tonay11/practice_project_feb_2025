@@ -1,0 +1,23 @@
+# task 1
+my_name = 'Toni'
+print (my_name)
+city = 'London'
+hobbies = 'Walking, Reading and Music'
+print (hobbies)
+mySeparator = ". "
+my_text = 'My name is '+ my_name + mySeparator + 'I live in ' + city + mySeparator + 'My hobbies are ' + hobbies + "."
+print (my_text)
+
+#task 2
+a = 12
+b = 3
+if a % b == 0:
+   print ("Even")
+
+
+def odd_even (e):
+   e = a % b
+   a = 12
+   b = 3
+   if (e == 0):
+      print ("Even")
