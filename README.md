@@ -17,4 +17,17 @@ For the next class, find a dataset with a table in .csv, .json or .tsv format to
 
 ## Week 2 exercises:
 
-### Section 1: Conditionals, loops, and functions
+### Section 1: Conditionals, loops, and functions & Section 2: .csv files
+### Section 3: Web scraping
+#### Task 1
+#### Task 2
+
+## Week 3 exercises:
+
+## Week 5 exercises
+
+### OpenWeather API Lab
+
+### Spotify API Lab (Spotipy)
+
+### YouTube API Lab
