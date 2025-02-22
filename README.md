@@ -1,17 +1,20 @@
-# practice_project_feb_2025
+# Final Project: Intro to Data Science Jan-Feb 2025
 
 # The Python Data Science project:
 [Data Science Project](https://github.com/tonay11/practice_project_feb_2025/blob/main/project_t2/linguistic_diversity_t2.ipynb)
 
 # The Project Report
 
+# Exercises from class or homework 
+
 ## Week 1 exercises:
 ### Task 1
 #### creating a .txt file - in the console
 [Code](https://github.com/tonay11/practice_project_feb_2025/blob/main/session01/daz%20ds%20session%201%20task%201%20.py)  
+[.txt file](https://github.com/tonay11/practice_project_feb_2025/blob/main/session01/mytext.txt)
 
 ### Task 2
-#### Write a piece of code which checks if a number even or odd. [.txt file]()
+ Write a piece of code which checks if a number even or odd -[code](https://github.com/tonay11/practice_project_feb_2025/blob/main/session01/daz%20session%201.py) 
 
 ### Task 3
 [Most popular words in "The Story of the Fierce Bad Rabbit"](https://github.com/tonay11/practice_project_feb_2025/blob/main/session01/most_popular_words_rabbit.ipynb)
