@@ -27,11 +27,21 @@ For the next class, find a dataset with a table in .csv, .json or .tsv format to
 
 ### Section 3: Web scraping
 #### Task 1
+[Wikipedia exercise code](https://github.com/tonay11/practice_project_feb_2025/blob/main/session02/DAZ_code_wikipedia_practice.ipynb) 
+
+[Wikipedia exercise .csv](https://github.com/tonay11/practice_project_feb_2025/blob/main/session02/angelique_kidjo_charts.csv)
+
 #### Task 2
+[Webscraper images code](https://github.com/tonay11/practice_project_feb_2025/blob/main/session02/DAZ_code_webscraper_images_practice.ipynb)
+
+[Images](https://github.com/tonay11/practice_project_feb_2025/tree/main/session02/scraped_images)
 
 ## Week 3 exercises:
+[Week 3 lab](https://github.com/tonay11/practice_project_feb_2025/blob/main/session03/lab_exercises.ipynb)
 
-## Week 5 exercises: Completed, but not being displayed because of keys
+
+## Week 5 exercises: 
+Completed, but not being displayed because of keys
 
 ### OpenWeather API Lab
 
@@ -39,5 +49,3 @@ For the next class, find a dataset with a table in .csv, .json or .tsv format to
 
 ### YouTube API Lab
 
-
-# The Project Report
