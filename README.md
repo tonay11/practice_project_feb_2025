@@ -1,5 +1,10 @@
 # practice_project_feb_2025
 
+# The Python Data Science project:
+https://github.com/tonay11/practice_project_feb_2025/blob/main/project_t2/linguistic_diversity_t2.ipynb
+
+# The Project Report
+
 ## Week 1 exercises:
 ### Task 1
 #### creating a .txt file - in the console
@@ -25,10 +30,13 @@ For the next class, find a dataset with a table in .csv, .json or .tsv format to
 
 ## Week 3 exercises:
 
-## Week 5 exercises
+## Week 5 exercises: Completed, but not being displayed because of keys
 
 ### OpenWeather API Lab
 
 ### Spotify API Lab (Spotipy)
 
 ### YouTube API Lab
+
+
+# The Project Report
