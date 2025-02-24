@@ -2,6 +2,9 @@
 
 # The Python Data Science project:
 [Data Science Project](https://github.com/tonay11/practice_project_feb_2025/blob/main/project_t2/linguistic_diversity_t2.ipynb)
+[csv file used for graphs](https://github.com/tonay11/practice_project_feb_2025/blob/main/project_t2/updated_Linguistic_diversity_index.csv)
+
+[Works in progress](https://github.com/tonay11/practice_project_feb_2025/blob/main/project/linguistic_diversity.ipynb)
 
 # The Project Report
 
