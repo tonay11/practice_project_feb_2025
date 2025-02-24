@@ -1,5 +1,7 @@
 # Final Project: Intro to Data Science Jan-Feb 2025
 
+[Project](https://github.com/tonay11/practice_project_feb_2025/blob/main/project_t2/linguistic_diversity_t2.ipynb) 
+
 # The Python Data Science project:
 [Data Science Project](https://github.com/tonay11/practice_project_feb_2025/blob/main/project_t2/linguistic_diversity_t2.ipynb)
 [csv file used for graphs](https://github.com/tonay11/practice_project_feb_2025/blob/main/project_t2/updated_Linguistic_diversity_index.csv)
@@ -7,6 +9,8 @@
 [Works in progress](https://github.com/tonay11/practice_project_feb_2025/blob/main/project/linguistic_diversity.ipynb)
 
 # The Project Report
+
+[Report](https://github.com/tonay11/practice_project_feb_2025/blob/main/Introduction%20to%20Data%20Science%20Project%20report%20final%20-%20TA.pdf) 
 
 # Exercises from class or homework 
 
